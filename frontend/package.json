@@ -1,0 +1,40 @@
+{
+  "name": "tmsfrontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack serve",
+    "prod": "webpack serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.22.10",
+    "@babel/preset-env": "^7.22.10",
+    "@babel/preset-react": "^7.22.5",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.8",
+    "@mui/x-date-pickers": "^6.13.0",
+    "axios": "^1.4.0",
+    "babel-loader": "^9.1.3",
+    "dayjs": "^1.11.9",
+    "dotenv-webpack": "^8.0.1",
+    "immer": "^10.0.2",
+    "install": "^0.13.0",
+    "npm": "^10.1.0",
+    "react": "^18.2.0",
+    "react-color": "^2.19.3",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.15.0",
+    "react-select": "^5.7.4",
+    "react-transition-group": "^4.4.5",
+    "use-immer": "^0.9.0",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
