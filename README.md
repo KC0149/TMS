@@ -2,6 +2,16 @@
 
 The Task Management System is a web application designed to streamline task management, providing features for user authentication, authorization, task creation, and task progress tracking. Users can create tasks, assign them to specific users, and track their progress through various stages.
 
+
+![image](https://github.com/KC0149/TMS/assets/115627529/a4380007-aedf-4928-b09b-a9b44a02009f)
+
+
+![image](https://github.com/KC0149/TMS/assets/115627529/805001e5-bf62-45ae-a5c0-e69e08285e8d)
+
+
+![image](https://github.com/KC0149/TMS/assets/115627529/48f6919e-aabf-46e2-bc83-d7211b0544e4)
+
+
 ## Table of Contents
 
 - [Installation](#installation)
