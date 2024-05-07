@@ -97,7 +97,7 @@ Once the Task Management System is running, users can perform the following acti
 - **Application Creation**: Users can create applications to group tasks and manage permissions for each application. Applications serve as containers for tasks and allow users to organize their workflow effectively.
 - **Task Creation**: Users can create new tasks, specifying details such as title, description, assigned user, and due date.
 - **Task Progress Tracking**: Tasks can be moved through various stages (e.g., open, todo, doing, done, closed) to track their progress.
-- **Plan Creation and Selection**: Users can create and select plans for tasks, providing additional context or categorization.
+- **Plan Creation and Selection**: Users with pm role can create and select plans for tasks, providing additional context or categorization.
 
 ## Features
 
